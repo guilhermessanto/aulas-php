@@ -40,6 +40,6 @@ cosole.log(aluno);
 
 ### Lista de tarefas
 
-- [] Brifing
+- [ ] Brifing
 - [x] Rascunhos
-- [] Design
+- [ ] Design
