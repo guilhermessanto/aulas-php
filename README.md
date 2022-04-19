@@ -1,2 +1,2 @@
 # aulas-php
- atividades desenvolvidas nas aulas de PHP
+ Exemplos e exerícios desenvolvidos nas aulas de PHP
